@@ -1,5 +1,4 @@
 {
-
     "short_name": "Twittor",
     "name": "Twitter for heroes",
     "start_url": "index.html",
@@ -49,5 +48,4 @@
             "sizes": "512x512"
         }
     ]
-
 }
